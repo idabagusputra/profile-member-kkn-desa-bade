@@ -130,7 +130,7 @@ export default function ProfilIda() {
               </div>
             </div>
             <Image
-              src="/images/profil-ida.png"
+              src="/images/Profil_Ida.webp"
               alt="Profile Image"
               className="w-full h-full object-cover object-center rounded mb-8"
               width={400} // Set the width of the image
