@@ -1,11 +1,11 @@
 import { Inter } from "next/font/google";
-import "./globals.css";
+import ".././globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Deshboard",
-  description: "Profil KKN Desa Bade 2023/2024",
+  title: "Profil - Ida Bagus Putu Putra Manuaba",
+  description: "",
 };
 
 export default function RootLayout({ children }) {
