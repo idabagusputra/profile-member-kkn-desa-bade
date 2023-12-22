@@ -11,7 +11,9 @@ export default function Header() {
           <a href="/dasboard" className="mr-5 hover:text-gray-900 font-medium">
             Dashboard
           </a>
-          <a className="mr-5 hover:text-gray-900 font-medium">Members</a>
+          <a href="/member" className="mr-5 hover:text-gray-900 font-medium">
+            Members
+          </a>
           <a className="hover:text-gray-900 font-medium">Location</a>
         </nav>
       </div>
