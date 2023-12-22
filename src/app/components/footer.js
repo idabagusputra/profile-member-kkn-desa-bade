@@ -16,9 +16,6 @@ export default function Footer() {
             />
             <span class="ml-3 text-xl">Universitas Diponegoro</span>
           </a>
-          <p class="mt-2 text-sm text-gray-500">
-            KKN - TIM I - Desa Bade - 2023/2024
-          </p>
         </div>
         <div class="flex-grow flex flex-wrap md:pr-20 -mb-10 md:text-left text-center order-first"></div>
       </div>
