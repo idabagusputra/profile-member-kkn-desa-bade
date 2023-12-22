@@ -132,7 +132,7 @@ export default function ProfilIda() {
             <Image
               src="/images/Profil_Ida.webp"
               alt="Profile Image"
-              className="border-b-2 border-blue-900 w-full h-full object-cover object-center mb-4"
+              className="border-b-2 border-blue-900 w-full h-full object-cover object-center mb-2"
               width={400} // Set the width of the image
               height={400} // Set the height of the image
             />
