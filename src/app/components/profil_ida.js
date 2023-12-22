@@ -14,7 +14,7 @@ export default function ProfilIda() {
                 Ida Bagus Putu Putra Manuaba
               </h1>
               <div class="flex mb-4">
-                <a class="flex-grow text-indigo-500 border-b-2 border-indigo-500 py-2 text-lg ">
+                <a class="flex-grow text-blue-900 border-b-2 border-blue-900 py-2 text-lg ">
                   Autobiografi
                 </a>
               </div>
