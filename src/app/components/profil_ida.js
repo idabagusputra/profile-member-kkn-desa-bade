@@ -60,7 +60,7 @@ export default function ProfilIda() {
                 </a>
               </div>
               <div class="flex items-center">
-                <span class="title-font font-medium text-2xl text-gray-900">
+                <span class="title-font font-medium py-2 text-gray-900">
                   Temukan saya di
                 </span>
                 <a
