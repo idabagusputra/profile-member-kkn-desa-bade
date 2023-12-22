@@ -14,7 +14,7 @@ export default function ProfilIda() {
                 Ida Bagus Putu Putra Manuaba
               </h1>
               <div class="flex mb-4">
-                <a class="flex-grow text-blue-900 border-b-2 border-blue-900 py-2 text-lg ">
+                <a class="flex-grow text-sky-900 border-b-2 border-sky-900 py-2 text-lg ">
                   Autobiografi
                 </a>
               </div>
@@ -132,7 +132,7 @@ export default function ProfilIda() {
             <Image
               src="/images/Profil_Ida.webp"
               alt="Profile Image"
-              className="border-b-2 border-blue-900 w-full h-full object-cover object-center mb-2"
+              className="w-full h-full object-cover object-center mb-8"
               width={400} // Set the width of the image
               height={400} // Set the height of the image
             />
