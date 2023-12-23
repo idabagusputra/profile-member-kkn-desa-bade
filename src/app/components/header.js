@@ -14,7 +14,9 @@ export default function Header() {
           <a href="/member" className="mr-5 hover:text-gray-900 font-medium">
             Members
           </a>
-          <a className="hover:text-gray-900 font-medium">Location</a>
+          <a href="/location" className="hover:text-gray-900 font-medium">
+            Location
+          </a>
         </nav>
       </div>
     </header>

@@ -5,7 +5,7 @@ export default function Landing() {
     <div>
       <section class="text-gray-600 body-font">
         <div class="container px-5 py-8 mx-auto">
-          <div class="flex flex-col text-center w-full mb-20">
+          <div class="flex flex-col text-center w-full mb-8">
             <h1 class="text-2xl font-font-medium title-font mb-4 text-gray-900">
               TIM I
             </h1>
