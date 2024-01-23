@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-export default function ProfilVika() {
+export default function ProfilMira() {
   return (
     <div>
       <section className="text-gray-600 body-font overflow-hidden">
@@ -8,10 +8,10 @@ export default function ProfilVika() {
           <div className="flex flex-col-reverse lg:flex-row">
             <div className="lg:w-1/2 w-full lg:pr-10 lg:py- mb-6 lg:mb-0">
               <h2 class="text-sm title-font text-gray-500 tracking-widest mb-2">
-                Bendahara
+                Sekretaris
               </h2>
               <h1 class="text-gray-900 text-3xl title-font font-medium">
-                Devi Khairunnisa Salma Asmanita
+                Emirah Glasnost Perestroika
               </h1>
               <div class="flex mb-4">
                 <a class="flex-grow text-sky-900 border-b-2 border-sky-900 py-2 text-lg ">
@@ -19,44 +19,34 @@ export default function ProfilVika() {
                 </a>
               </div>
               <p class="leading-relaxed mb-4 text-justify">
-                Ida, seorang mahasiswa asal Kota Palu, Sulawesi Tengah, saat ini
-                sedang menyelesaikan pendidikan di Universitas Diponegoro,
-                Fakultas Teknik, jurusan Teknik Komputer, di kampus yang
-                terletak di Kota Semarang, Jawa Tengah. Menempuh semester
-                ketujuh, Ida aktif terlibat dalam Kuliah Kerja Nyata (KKN) di
-                Desa Bade, Kecamatan Klego, Kabupaten Boyolali, Provinsi Jawa
-                Tengah, Indonesia. Dengan semangat dan dedikasi, Ida tidak hanya
-                mengejar kesuksesan akademis, tetapi juga berkomitmen untuk
-                memberikan kontribusi positif dalam masyarakat. Latar belakang
-                pendidikan teknik komputer yang kuat menjadi landasan bagi Ida
-                untuk membawa dampak positif dan meningkatkan kualitas hidup di
-                komunitas tempatnya berkegiatan.
+                DIHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH KANGKUNG
+                YANG BENER AJE RUGI DONG
               </p>
               <div class="flex border-t border-gray-200 py-2">
                 <span class="text-gray-500">NIM</span>
-                <span class="ml-auto text-gray-900">12030120140139</span>
+                <span class="ml-auto text-gray-900">21040120140054</span>
               </div>
               <div class="flex border-t border-gray-200 py-2">
                 <span class="text-gray-500">Fakultas</span>
-                <span class="ml-auto text-gray-900">Ekonomi dan Bisnis</span>
+                <span class="ml-auto text-gray-900">Teknik</span>
               </div>
               <div class="flex border-t border-gray-200 py-2">
                 <span class="text-gray-500">Jurusan</span>
-                <span class="ml-auto text-gray-900">Akuntansi</span>
+                <span class="ml-auto text-gray-900">PWK</span>
               </div>
               <div class="flex border-t border-b border-gray-200 py-2">
                 <span class="text-gray-500">Telepon Seluler</span>
                 <a href="tel:+6282260773867" class="ml-auto text-blue-900">
-                  08889023273
+                  082260773867
                 </a>
               </div>
               <div class="flex border-t border-b mb-6 border-gray-200 py-2">
                 <span class="text-gray-500">Email</span>
                 <a
-                  href="mailto:devisalma43@gmail.com"
+                  href="mailto:idabagusputra@students.undip.ac.id"
                   class="ml-auto text-blue-900"
                 >
-                  devisalma43@gmail.com
+                  idabagusputra@students.undip.ac.id
                 </a>
               </div>
               <div class="flex items-center">
