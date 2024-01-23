@@ -53,10 +53,10 @@ export default function ProfilVika() {
               <div class="flex border-t border-b mb-6 border-gray-200 py-2">
                 <span class="text-gray-500">Email</span>
                 <a
-                  href="mailto:devisalma43@gmail.com"
+                  href="mailto:devisalma@students.undip.ac.id"
                   class="ml-auto text-blue-900"
                 >
-                  devisalma43@gmail.com
+                  devisalma@students.undip.ac.id
                 </a>
               </div>
               <div class="flex items-center">
@@ -64,7 +64,7 @@ export default function ProfilVika() {
                   Temukan saya di
                 </span>
                 <a
-                  href="https://www.facebook.com/ibp.putra.m"
+                  href="https://www.facebook.com/"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="ml-auto rounded-full w-10 h-10 bg-gray-200 p-0 border-0 inline-flex items-center justify-center text-gray-500 ml-4"
@@ -83,7 +83,7 @@ export default function ProfilVika() {
                   </button>
                 </a>
                 <a
-                  href="https://instagram.com/ida.bagus.putra"
+                  href="https://instagram.com/devikasalmn"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -101,7 +101,7 @@ export default function ProfilVika() {
                   </button>
                 </a>
                 <a
-                  href="https://instagram.com/ida.bagus.putra"
+                  href="https://instagram.com/devikasalmn"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
