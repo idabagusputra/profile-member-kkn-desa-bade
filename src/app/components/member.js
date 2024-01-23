@@ -148,7 +148,7 @@ export default function Landing() {
             </div>
             <div class="p-4 lg:w-1/4 md:w-1/2">
               <a
-                href="/ida"
+                href="/mira"
                 class="h-full flex flex-col items-center text-center"
               >
                 <Image

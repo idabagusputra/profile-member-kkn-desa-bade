@@ -32,7 +32,9 @@ export default function ProfilMira() {
               </div>
               <div class="flex border-t border-gray-200 py-2">
                 <span class="text-gray-500">Jurusan</span>
-                <span class="ml-auto text-gray-900">PWK</span>
+                <span class="ml-auto text-gray-900">
+                  Perencanaan Wilaayah dan Kota
+                </span>
               </div>
               <div class="flex border-t border-b border-gray-200 py-2">
                 <span class="text-gray-500">Telepon Seluler</span>
@@ -120,7 +122,7 @@ export default function ProfilMira() {
               </div>
             </div>
             <Image
-              src="/images/Profil_Vika.webp"
+              src="/images/Profil_Emi.webp"
               alt="Profile Image"
               className="w-full h-full object-cover object-center mb-8"
               width={400} // Set the width of the image
