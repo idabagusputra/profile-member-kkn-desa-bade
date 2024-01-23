@@ -50,7 +50,7 @@ export default function Landing() {
                 class="h-full flex flex-col items-center text-center"
               >
                 <Image
-                  src="/images/member_ida.webp"
+                  src="/images/member_kikiii.webp"
                   alt="Profile Image"
                   className="w-full h-full object-cover object-center rounded mb-2"
                   width={400} // Set the width of the image
@@ -58,11 +58,131 @@ export default function Landing() {
                 />
                 <div class="w-full">
                   <h2 class="title-font font-medium text-lg text-gray-900">
-                    Ida Bagus Putu Putra Manuaba
+                    Andi Rizki Al Ghani Ridata
                   </h2>
                   <h3 class="text-gray-500 mb-3">
-                    PDD (Publikasi, Dekorasi, dan Dokumentasi)
+                    WAKORDES (Wakil Koordinator Desa)
                   </h3>
+                </div>
+              </a>
+            </div>
+            <div class="p-4 lg:w-1/4 md:w-1/2">
+              <a
+                href="/ida"
+                class="h-full flex flex-col items-center text-center"
+              >
+                <Image
+                  src="/images/member_moza.webp"
+                  alt="Profile Image"
+                  className="w-full h-full object-cover object-center rounded mb-2"
+                  width={400} // Set the width of the image
+                  height={400} // Set the height of the image
+                />
+                <div class="w-full">
+                  <h2 class="title-font font-medium text-lg text-gray-900">
+                    Moza Yulia Alam
+                  </h2>
+                  <h3 class="text-gray-500 mb-3">Sekretaris</h3>
+                </div>
+              </a>
+            </div>
+            <div class="p-4 lg:w-1/4 md:w-1/2">
+              <a
+                href="/vika"
+                class="h-full flex flex-col items-center text-center"
+              >
+                <Image
+                  src="/images/member_vika.webp"
+                  alt="Profile Image"
+                  className="w-full h-full object-cover object-center rounded mb-2"
+                  width={400} // Set the width of the image
+                  height={400} // Set the height of the image
+                />
+                <div class="w-full">
+                  <h2 class="title-font font-medium text-lg text-gray-900">
+                    Devi Khairunnisa Salma Asmanita
+                  </h2>
+                  <h3 class="text-gray-500 mb-3">Bendahara</h3>
+                </div>
+              </a>
+            </div>
+            <div class="p-4 lg:w-1/4 md:w-1/2">
+              <a
+                href="/ida"
+                class="h-full flex flex-col items-center text-center"
+              >
+                <Image
+                  src="/images/member_dika.webp"
+                  alt="Profile Image"
+                  className="w-full h-full object-cover object-center rounded mb-2"
+                  width={400} // Set the width of the image
+                  height={400} // Set the height of the image
+                />
+                <div class="w-full">
+                  <h2 class="title-font font-medium text-lg text-gray-900">
+                    Andika Dwi Putra
+                  </h2>
+                  <h3 class="text-gray-500 mb-3">KORDES (Koordinator Desa)</h3>
+                </div>
+              </a>
+            </div>
+            <div class="p-4 lg:w-1/4 md:w-1/2">
+              <a
+                href="/ida"
+                class="h-full flex flex-col items-center text-center"
+              >
+                <Image
+                  src="/images/member_indri.webp"
+                  alt="Profile Image"
+                  className="w-full h-full object-cover object-center rounded mb-2"
+                  width={400} // Set the width of the image
+                  height={400} // Set the height of the image
+                />
+                <div class="w-full">
+                  <h2 class="title-font font-medium text-lg text-gray-900">
+                    Indri Erisa
+                  </h2>
+                  <h3 class="text-gray-500 mb-3">Bendahara</h3>
+                </div>
+              </a>
+            </div>
+            <div class="p-4 lg:w-1/4 md:w-1/2">
+              <a
+                href="/ida"
+                class="h-full flex flex-col items-center text-center"
+              >
+                <Image
+                  src="/images/member_mira.webp"
+                  alt="Profile Image"
+                  className="w-full h-full object-cover object-center rounded mb-2"
+                  width={400} // Set the width of the image
+                  height={400} // Set the height of the image
+                />
+                <div class="w-full">
+                  <h2 class="title-font font-medium text-lg text-gray-900">
+                    Emirah Glasnost Perestroika
+                  </h2>
+                  <h3 class="text-gray-500 mb-3">Sekretaris</h3>
+                </div>
+              </a>
+            </div>
+            <div class="p-4 lg:w-1/4 md:w-1/2">
+              <a
+                href="/ida"
+                class="h-full flex flex-col items-center text-center"
+              >
+                <Image
+                  src="/images/member_sukri.webp"
+                  alt="Profile Image"
+                  className="w-full h-full object-cover object-center rounded mb-2"
+                  width={400} // Set the width of the image
+                  height={400} // Set the height of the image
+                />
+                <div class="w-full">
+                  <h2 class="title-font font-medium text-lg text-gray-900">
+                    Sukriwan Ramadhan
+                  </h2>
+                  <h3 class="text-gray-500 mb-3">Logistik</h3>
                 </div>
               </a>
             </div>
